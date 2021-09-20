@@ -51,6 +51,8 @@
 ![Jam's notes](assets-readme/2.jpg)
 
 ### Scroll Behaviour
+* `scroll-behavior: smooth`
+* link `a` with ID
 
 ---
 
